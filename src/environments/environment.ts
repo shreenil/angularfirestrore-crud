@@ -8,7 +8,7 @@ export const environment = {
   firebaseConfig : {
     apiKey: "your api key",
     authDomain: "your domain",
-    databaseURL: "your database url,
+    databaseURL: "your database url",
     projectId: "your project id",
     storageBucket: "your storage bucket",
     messagingSenderId: "your messanging sender id"
